@@ -26,9 +26,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Learning cyber security, C++ based windowes optimizer**
+- 🔭 I’m currently working on **C++ based Windows optimizer**
 
-- 🌱 I’m currently learning **Techical Windows**
+- 🌱 I’m currently learning **Techical Windows, Cyber Security**
 
 - 📫 Feel free to reach me out **ayoubsmoahmed07@gmail.com**
 
