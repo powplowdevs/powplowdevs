@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **Techical Windows, Cyber Security**
 
-- 📫 Feel free to reach me out **ayoubsmoahmed07@gmail.com**
+- 📫 Feel free to reach out to me at **ayoubsmoahmed07@gmail.com**
 
 <!--SAVE THIS FOR LATER 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
