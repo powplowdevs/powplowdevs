@@ -35,9 +35,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **C++ based Windows optimizer**
+- 🔭 I’m currently working on **Lua game development, C++ based Windows optimizer**
 
-- 🌱 I’m currently learning **Techical Windows, Cyber Security, WebGL**
+- 🌱 I’m currently learning **Techical Windows, Cyber Security, Lua**
 
 - 📫 Feel free to reach out to me at **ayoubsmoahmed07@gmail.com**
 
