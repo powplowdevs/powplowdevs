@@ -35,9 +35,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Lua game development, C++ based Windows optimizer**
+- 🔭 I’m currently working on **Kotlin Android development, C++ based Windows optimizer**
 
-- 🌱 I’m currently learning **Techical Windows, Cyber Security, Lua**
+- 🌱 I’m currently learning **Kotlin, Techical Windows, Cyber Security**
 
 - 📫 Feel free to reach out to me at **ayoubsmoahmed07@gmail.com**
 
