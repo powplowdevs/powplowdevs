@@ -119,7 +119,9 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=powplowdevs&icon=3&color=6)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=powplowdevs&label=Profile%20Views&pretty=false" />
+</a>
   
 </div>
 
