@@ -119,9 +119,7 @@
 <!--profile visit count-->
 <div align="center">
   
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=powplowdevs&label=Profile%20Views&pretty=false" />
-</a>
+<a href="https://u8views.com/github/powplowdevs"><img src="https://u8views.com/api/v1/github/profiles/74332267/views/day-week-month-total-count.svg"></a>
   
 </div>
 
