@@ -35,7 +35,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Kotlin Android development, C++ based Windows optimizer**
+- 🔭 I’m currently working on **C++ boost asio P2P framework**
 
 - 🌱 I’m currently learning **Kotlin, Techical Windows, Cyber Security**
 
