@@ -1,32 +1,23 @@
-
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
+<div id="user-content-toc" align="center">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Ayoub</h1></summary>
   </ul>
 </div>
 
-
 <!--- snake -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="display: block; max-width: 100%;">
+  </picture>
+</div>
 
-<!--h2 without bottom border-->
+<!--h2 centered properly-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Programming or procrastination?</h2></summary>
@@ -34,25 +25,14 @@
 </div>
 
 
-<!--Intro start-->
-- 🔭 I’m currently working on **C++ boost asio P2P framework**
+<!--Intro start (centered)-->
+<div>
+  <p>🔭 I’m currently working on <strong>C++ Boost.Asio P2P framework</strong></p>
+  <p>🌱 I’m currently learning <strong>Kotlin, Technical Windows, Cyber Security</strong></p>
+  <p>📫 Feel free to reach out to me at <strong>ayoubsmoahmed07@gmail.com</strong></p>
+</div>
 
-- 🌱 I’m currently learning **Kotlin, Techical Windows, Cyber Security**
-
-- 📫 Feel free to reach out to me at **ayoubsmoahmed07@gmail.com**
-
-<!--SAVE THIS FOR LATER 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-->
-
-
-<!--Intro end-->
-
-
+<hr>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -87,6 +67,7 @@
 </p>        
 <!--- stats (end) -->
 
+<hr>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -124,9 +105,9 @@
 </div>
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
+
 Credit: [1010nishant](https://github.com/1010nishant)
 
 Last Edited on: 29/4/2023
