@@ -109,11 +109,11 @@
 
 <!--horizontal divider(gradiant)-->
 <div align="center">
-  <img src="" width="75">&nbsp;
-  <img src="" width="75">&nbsp;
-  <img src="" width="75">&nbsp;
-  <img src="" width="75">&nbsp;
-  <img src="" width="75">&nbsp;
+  <img src="https://github.com/powplowdevs/powplowdevs/blob/main/gifs/spaceCat.gif" width="75">&nbsp;
+  <img src="https://github.com/powplowdevs/powplowdevs/blob/main/gifs/nyanCat.gif" width="75">&nbsp;
+  <img src="https://github.com/powplowdevs/powplowdevs/blob/main/gifs/bird.gif" width="75">&nbsp;
+  <img src="https://github.com/powplowdevs/powplowdevs/blob/main/gifs/pokemonCat.gif" width="75">&nbsp;
+  <img src="https://github.com/powplowdevs/powplowdevs/blob/main/gifs/patCat.gif" width="75">&nbsp;
 
 </div>
 
