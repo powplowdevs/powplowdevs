@@ -38,7 +38,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFA2&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Networking+%7C+Web+Dev;C%2B%2B%2C+Python%2C+JavaScript+%E2%80%94+self+taught;It's+not+a+bug%2C+it's+a+feature;Star+my+repos!!!+%F0%9F%98%A1" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFA2&center=true&vCenter=true&width=600&lines=Systems+Engineering+%7C+Networking+%7C+Web+Dev;C%2B%2B%2C+Python%2C+JavaScript+%E2%80%94+self+taught;It's+not+a+bug%2C+it's+a+feature;Star+my+repos!!!+%F0%9F%A4%A9" alt="Typing animation" />
 </p>
 
 <!--- stats & Trophy (start) -->
