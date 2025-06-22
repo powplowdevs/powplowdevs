@@ -31,7 +31,7 @@
 <!--Intro start (centered)-->
 <div>
   <p>🔭 I’m currently working on <strong>SpyView ~ An Anti Tracker browser extension</strong></p>
-  <p>🌱 I’m currently learning <strong>Kotlin, Technical Windows, Cyber Security</strong></p>
+  <p>🌱 I’m currently learning <strong>Win32API, Technical Windows, Cyber Security</strong></p>
   <p>📫 Feel free to reach out to me at <strong>ayoubsmoahmed07@gmail.com</strong></p>
 </div>
 
