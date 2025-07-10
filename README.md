@@ -55,7 +55,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=powplowdevs&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&exclude_repo=Ricky-Roulette"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=powplowdevs&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&exclude_repo=Ricky-Roulette,autoSFX" />
   
   </td>
 </tr>
