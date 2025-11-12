@@ -30,10 +30,11 @@
 
 <!--Intro start (centered)-->
 <div>
-  <p>🔭 I’m currently working on <strong>SpyView ~ An Anti Tracker browser extension, Windows optimization scripts</strong></p>
-  <p>🌱 I’m currently learning <strong>Win32API, Technical Windows, Cyber Security</strong></p>
-  <p>📫 Feel free to reach out to me at <strong>ayoubsmoahmed07@gmail.com</strong></p>
-</div>
+  <p>🔭 I’m currently working on <strong>Zero Trust Home Server ~ A secure, certificate-based network system for authenticated device communication</strong></p>
+  <p>💡 My latest project: <strong>SpyView ~ An anti-tracker browser extension with local risk scoring, analytics, and privacy insights</strong></p>
+  <p>🌱 I’m currently learning <strong>Go, mTLS implementation, and advanced networking concepts</strong></p>
+  <p>📫 Feel free to reach out to me at <strong>ayoubsmoahmed07@gmail.co
+
 
 <hr>
 
