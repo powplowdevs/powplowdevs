@@ -105,7 +105,7 @@
 <h3>⚙️ Tools & Environments</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,linux,git,github&perline=12" />
+    <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,raspberrypi&perline=12" />
   </a>
 </p>
 
