@@ -79,17 +79,37 @@
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  <ul>
+    <summary><h2 style="display: inline-block;">👨🏻‍💻 My tech stack</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
-<p align="center">
+
+<!-- Languages -->
+<h3>💻 Languages I Know</h3>
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,github,html,java,js,linux,mysql,py,vscode,kotlin,lua&perline=15" />
+    <img src="https://skillicons.dev/icons?i=python,java,go,cpp,html,css,js,c,kotlin,lua&perline=12" />
   </a>
 </p>
 
+<!-- Frameworks -->
+<h3>🧩 Frameworks & Libraries</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,mysql&perline=12" />
+  </a>
+</p>
+
+<!-- Tools -->
+<h3>⚙️ Tools & Environments</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,linux,git,github&perline=12" />
+  </a>
+</p>
+
+
+<hr>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -100,7 +120,7 @@
 </div>
 
 <!--icons and links-->
-<p align="center">
+<p >
 <a href="https://www.linkedin.com/in/ayoub-mohamed-3179112a2/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
 
