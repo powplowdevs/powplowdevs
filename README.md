@@ -89,7 +89,7 @@
 <h3>💻 Languages I Know</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,go,cpp,html,css,js,c,kotlin,lua&perline=12" />
+    <img src="https://skillicons.dev/icons?i=python,java,go,cpp,c,html,css,js&perline=12" />
   </a>
 </p>
 
@@ -97,7 +97,7 @@
 <h3>🧩 Frameworks & Libraries</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,mysql&perline=12" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,flask,mysql,ai&perline=12" />
   </a>
 </p>
 
